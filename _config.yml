@@ -24,3 +24,7 @@ exclude:
   - gen_mgemdata.rb
   - gen_mrbdoc.rb
   - vendor
+collections:
+  topics:
+    output: true
+    permalink: /topics/:path/

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "World’s first communication system"
+date:   2014-02-09 10:13:55
+categories: releases
+description: "It is a truly usable IoT platform experience session that is completely different from the IoT environment that has been provided so far. The first release of mruby is now available."
+---
+
+mruby 1.0.0 released
+====================
+
+The first release of mruby is now available.
+Download [mruby 1.0.0][mruby-1.0.0-dl] now.
+
+[mruby-1.0.0-dl]: https://github.com/mruby/mruby/archive/1.0.0.zip
