@@ -2209,7 +2209,7 @@
 		letter-spacing: -0.2px;
 	}
 	#Embeddable_lightweight_Ruby___ {
-		left: 511.814px;
+		left: 508.814px;
 		top: 201.692px;
 		position: absolute;
 		overflow: visible;
@@ -2222,6 +2222,9 @@
 		font-size: 15px;
 		color: rgba(38,38,38,1);
 		letter-spacing: -0.2px;
+	}
+	.iso-std {
+		left: 513px;
 	}
 	#For_microcontrollers {
 		left: 496.814px;
